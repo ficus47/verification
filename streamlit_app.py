@@ -2,7 +2,7 @@ import socket
 import time
 
 
-import imageio
+import imageio as imageio
 import numpy as np
 from PIL import ImageGrab
 
