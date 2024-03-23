@@ -1,5 +1,7 @@
 import socket
 import time
+import pip
+pip.main(["install", "imageio"])
 
 import imageio
 import numpy as np
